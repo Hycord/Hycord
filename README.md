@@ -32,4 +32,4 @@ you can see a list of common ones below!
 :bomb:/:boom: - Breaking Change
 ```
 :music: Currently Listening To :music:
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31y4vizdkb23gag4e47lysodjfoi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31y4vizdkb23gag4e47lysodjfoi&cover_image=true&theme=novatorem&bar_color=9ef9ff&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y4vizdkb23gag4e47lysodjfoi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
