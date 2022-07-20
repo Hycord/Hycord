@@ -13,7 +13,7 @@
 - `Ban Appeals` Is a bot for discord to help your members appeal their bans
   - [Invite Link](https://discord.com/oauth2/authorize?client_id=988441830238609439&scope=bot%20applications.commands&permissions=415068712141)
   - [Support Server](https://discord.gg/8MPcxR93DY)
-  - [Website](#) (What I'm working on) Not yet released.
+  - [Website](https://appeals.katz.gg) (What I'm mainly working on)
 
 I like to use :sparkles: Emojis :sparkles: in my commit messages, 
 you can see a list of common ones below!
