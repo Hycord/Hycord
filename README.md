@@ -3,12 +3,11 @@
 # I am 17 years old, and I code as a hobby.
 
 :telescope: Current Projects :telescope:
-- `Hycordia` Is a next-gen Minecraft server which breaks the habit and puts the players first!
+- [`Hycordia`](https://git.hycordia.com/) Is a next-gen Minecraft server which breaks the habit and puts the players first!
   - [Discord](https://discord.hycordia.com/)
   - [Twitter](https://twitter.hycordia.com/)
   - [Website](https://hycordia.com)
   - [API](https://api.hycordia.com/)
-  - [Github Organization](https://git.hycordia.com/)
   
 - `Ban Appeals` Is a bot for discord to help your members appeal their bans
   - [Invite Link](https://discord.com/oauth2/authorize?client_id=988441830238609439&scope=bot%20applications.commands&permissions=415068712141)
