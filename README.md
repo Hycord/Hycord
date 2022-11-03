@@ -18,11 +18,13 @@
 
 
 - `Ban Appeals` Is a bot for discord to help your members appeal their bans
-  - [Invite Link](https://discord.com/oauth2/authorize?client_id=988441830238609439&scope=bot%20applications.commands&permissions=415068712141)
+  - [Invite Link](https://discord.com/oauth2/authorize?client_id=988441830238609439&scope=bot%20applications.commands&permissions=415068712141) (Currently blocked because @Discord is ignoring tickets :( )
   - [Support Server](https://discord.gg/8MPcxR93DY)
-  - [Website](https://appeals.katz.gg) (What I'm mainly working on)
+  - [Website](https://appeals.katz.gg)
 #
+
 #
+
 I like to use ✨ Emojis ✨ in my commit messages,
 you can see a list of common ones below!
 
