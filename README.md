@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Masen Toplak, but I go as Hycord.
+## I go as Hycord.
 
 ### I am 17 years old, and I code as a hobby.
 
