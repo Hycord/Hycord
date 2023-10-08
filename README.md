@@ -2,25 +2,19 @@
 
 ## I go as Hycord.
 
-### I am 17 years old, and I code as a hobby.
+### I am 18 years old, and I code as a hobby.
 
 ---
 # 🔭 Current Projects 🔭
 
 - [`GCPL`](https://npmjs.org/package/gcpl/) Is a custom Git Commit linter that will make creating commits easy!
   - [Discord](https://discord.hycordia.com/)
-
-- [`Hycordia`](https://git.hycordia.com/) Is a next-gen Minecraft server which breaks the habit and puts the players first!
-  - [Discord](https://discord.hycordia.com/)
-  - [Twitter](https://twitter.hycordia.com/)
-  - [Website](https://hycordia.com)
-  - [API](https://api.hycordia.com/)
-
-
-- `Ban Appeals` Is a bot for discord to help your members appeal their bans
-  - [Invite Link](https://discord.com/oauth2/authorize?client_id=988441830238609439&scope=bot%20applications.commands&permissions=415068712141) (Currently blocked because [@Discord](https://github.com/discord) is ignoring tickets :( )
-  - [Support Server](https://discord.gg/8MPcxR93DY)
-  - [Website](https://appeals.katz.gg)
+ 
+- [`Portfolio`](https://hycord.is-a.dev) Is my custom website!
+  - All URLs:
+    - [`hycord.is-a.dev`](https://hycord.is-a.dev/)
+    - [`hycord.is-a-great.dev`](https://hycord.is-a-great.dev)
+    - [`masen.dev`](https://masen.dev)
 #
 
 #
