@@ -7,9 +7,11 @@
 ---
 # 🔭 Current Projects 🔭
 
-- [`GCPL`](https://npmjs.org/package/gcpl/) Is a custom Git Commit linter that will make creating commits easy!
-  - [Discord](https://discord.hycordia.com/)
- 
+- [`@ignhycord/neural`](https://npmjs.org/package/@ignhycord/neural) Is a custom neural network implementation to make working with feed forward neural networks easy!
+- [`@ignhycord/logger`](https://npmjs.org/package/@ignhycord/logger) Is a custom logging implementation that looks nice to me, and I use in my other projects!
+- [`@ignhycord/image`](https://npmjs.org/package/@ignhycord/image) Is a wrapper ontop of [@napi-rs/canvas](https://npmjs.org/package/@napi-rs/canvas) to make zooming, offsets, and context management easy!
+- [`@ignhycord/math`](https://npmjs.org/package/@ignhycord/math) Is a basic math helper library that I like to use in my projects. Contains helpers for basic math, statistics, vector math, matrix math, etc!
+
 - [`Portfolio`](https://hycord.is-a.dev) Is my custom website!
   - All URLs:
     - [`hycord.is-a.dev`](https://hycord.is-a.dev/)
