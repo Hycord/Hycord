@@ -7,16 +7,20 @@
 ---
 # 🔭 Current Projects 🔭
 
-- [`@ignhycord/neural`](https://npmjs.org/package/@ignhycord/neural) Is a custom neural network implementation to make working with feed forward neural networks easy!
-- [`@ignhycord/logger`](https://npmjs.org/package/@ignhycord/logger) Is a custom logging implementation that looks nice to me, and I use in my other projects!
-- [`@ignhycord/image`](https://npmjs.org/package/@ignhycord/image) Is a wrapper ontop of [@napi-rs/canvas](https://npmjs.org/package/@napi-rs/canvas) to make zooming, offsets, and context management easy!
-- [`@ignhycord/math`](https://npmjs.org/package/@ignhycord/math) Is a basic math helper library that I like to use in my projects. Contains helpers for basic math, statistics, vector math, matrix math, etc!
+- [`@hycord/neural`](https://npmjs.org/package/@hycord/neural) Is a custom neural network implementation to make working with feed forward neural networks easy!
+- [`@hycord/logger`](https://npmjs.org/package/@hycord/logger) Is a custom logging implementation that looks nice to me, and I use in my other projects!
+- [`@hycord/image`](https://npmjs.org/package/@hycord/image) Is a wrapper ontop of [@napi-rs/canvas](https://npmjs.org/package/@napi-rs/canvas) to make zooming, offsets, and context management easy!
+- [`@hycord/math`](https://npmjs.org/package/@hycord/math) Is a basic math helper library that I like to use in my projects. Contains helpers for basic math, statistics, vector math, matrix math, etc!
+
 
 - [`Portfolio`](https://hycord.is-a.dev) Is my custom website!
   - All URLs:
     - [`hycord.is-a.dev`](https://hycord.is-a.dev/)
     - [`hycord.is-a-great.dev`](https://hycord.is-a-great.dev)
     - [`masen.dev`](https://masen.dev)
+
+    
+- [`Monorepo For All Projects And Applications`](https://github.com/hycord/monorepo)
 #
 
 #
