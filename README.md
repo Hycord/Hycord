@@ -2,10 +2,15 @@
 
 ## I go as Hycord.
 
-### I am 18 years old, and I code as a hobby.
+### I am an 18 year old student at Northern Illinois University studying Computer Science and Computational Math with a minor in Physics.
+### I Love to write code and make it part of my daily routine. I am currently employed as a Software Engineer, however I am open to comissions.
+### Please reach out via my website's contact form [here](https://masen.dev/contact) if you would like to hire me
 
 ---
 # 🔭 Current Projects 🔭
+
+
+- [Atlas Rust](https://atlasrustservers.com/) Atlas Rust is one of the largest rust servers where I currently am employed as a Software Engineer
 
 - [`@hycord/neural`](https://npmjs.org/package/@hycord/neural) Is a custom neural network implementation to make working with feed forward neural networks easy!
 - [`@hycord/logger`](https://npmjs.org/package/@hycord/logger) Is a custom logging implementation that looks nice to me, and I use in my other projects!
@@ -13,15 +18,9 @@
 - [`@hycord/math`](https://npmjs.org/package/@hycord/math) Is a basic math helper library that I like to use in my projects. Contains helpers for basic math, statistics, vector math, matrix math, etc!
 
 
-- [`Portfolio`](https://hycord.is-a.dev) Is my custom website!
-  - All URLs:
-    - [`hycord.is-a.dev`](https://hycord.is-a.dev/)
-    - [`hycord.is-a-great.dev`](https://hycord.is-a-great.dev)
-    - [`masen.dev`](https://masen.dev)
-
+- [`Portfolio`](https://masen.dev) Is my custom website!
     
-- [`Monorepo For All Projects And Applications`](https://github.com/hycord/monorepo)
-#
+- [`Monorepo For Portfolio Website and NPM Packages`](https://github.com/hycord/monorepo)
 
 #
 
