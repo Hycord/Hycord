@@ -2,7 +2,7 @@
 
 ## I go as Hycord.
 
-### I am a 19 year old student at Northern Illinois University studying Computer Science and Computational Math with a minor in Physics and Applied Mathematics.
+### I am a 19 year old college dropout focusing on building useful and original software.
 ### I Love to write code and make it part of my daily routine. I am currently employed as a Software Engineer, however I am open to comissions.
 ### Please reach out via my website's contact form [here](https://masen.dev/contact) if you would like to hire me
 
