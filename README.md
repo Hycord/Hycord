@@ -4,7 +4,7 @@
 
 ### I am a 20 year old college dropout focusing on building useful and original software.
 ### I Love to write code and make it part of my daily routine. I am currently self employed working on three businesses, however I am open to comissions.
-### Please reach out via my website's contact form [here](https://masen.dev/contact) if you would like to hire me
+### Please join my discord [here](https://treecord.com/) if you would like to hire me!
 
 ---
 # 🔭 Current Projects 🔭
