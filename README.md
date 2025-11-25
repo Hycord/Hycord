@@ -4,7 +4,7 @@
 
 ### I am a 20 year old college dropout focusing on building useful and original software.
 ### I Love to write code and make it part of my daily routine. I am currently self employed working on three businesses, however I am open to comissions.
-### Please join my discord [here](https://treecord.com/) if you would like to hire me!
+### Please join my discord [here](https://discord.gg/Cdf9nqVM5e) if you would like to hire me!
 
 ---
 # 🔭 Current Projects 🔭
